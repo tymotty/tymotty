@@ -12,7 +12,7 @@
 
 - 💻 Desenvolvo com **HTML, CSS, JavaScript e SQL**
 - 🔐 Estudando **Cibersegurança** (redes, protocolos, boas práticas de segurança)
-- 🌱 Atualmente aprofundando conhecimentos em **SQL Server**
+- 🌱 Atualmente aprofundando conhecimentos em **JavaScript**
 - 💡 Gosto de criar projetos que resolvem problemas reais do dia a dia
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/timoteo-dos-reis-nogueira-a925913aa/) • [Email](mailto:seuemail@exemplo.com)
 

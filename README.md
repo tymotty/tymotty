@@ -35,6 +35,7 @@
 
 - 🔧 Construído com HTML, CSS e JavaScript
 - 🎯 Foco em liberdade de personalização para o usuário final
+- 🌐 [Acesse a demonstração online](https://tymotty.github.io/Patrium/)
 - 🔗 [Ver repositório](https://github.com/tymotty/patrium)
 
 ---

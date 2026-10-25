@@ -43,7 +43,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tymotty&theme=dark" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=tymotty&theme=dark&hide_border=false&locale=pt_BR&date_format=j%20M[%20Y]" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
